@@ -7,7 +7,7 @@ How To Use:
 3. crawling data sesuai program "1. Crawling Tweet.ipynb"
 4. Buka file text preprocessing.ipynb
 5. Lakukan Text Preprocessing sesuai program "2. Text-Pre-Processing.ipynb"
-6. Pelabelan manual bisa dilakukan setelah data tweet di crawling atau setelah text preprocessing dan jika dibutuhkan maka file bisa dirapikan dengan program "3. Labelling-text.ipynb"
+6. Pelabelan manual bisa dilakukan setelah data tweet di crawling atau setelah text preprocessing dan jika dibutuhkan maka file bisa dirapikan dengan program "3. Labelling-text.ipynb" (Jika diperlukan)
 7. Penghitungan TF-IDF bisa digunakan sesuai prohgram "4.TF-IDF_Count.ipynb"
 8. kemudian masuk pada folder "NB_fedy"
 9. penghitungan dan klasifikasi naive bayes dilakukan pada file "NB_TF-IDF-fedy.ipynb"
