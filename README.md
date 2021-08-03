@@ -1,6 +1,7 @@
 # fedy_twitter-
  Sentiment Analysis Toward Coronavirus on Twitter Using Python and Naïve Bayes Classifier)
 
+How To Use:
 1. Install jupyter notebook terlebih dahulu dan python
 2. Buka file "1. Crawling Tweet.ipynb" untuk mengambil data, pastikan sudah mendaftarkan akun twitter di developer.twitter.com unutk mendapatkan token akses untuk crawling data
 3. crawling data sesuai program "1. Crawling Tweet.ipynb"
