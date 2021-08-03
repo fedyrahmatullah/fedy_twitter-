@@ -3,7 +3,7 @@
 
 How To Use:
 1. Install jupyter notebook terlebih dahulu dan python
-2. Buka file "1. Crawling Tweet.ipynb" untuk mengambil data, pastikan sudah mendaftarkan akun twitter di developer.twitter.com unutk mendapatkan token akses untuk crawling data
+2. Buka file "1. Crawling Tweet.ipynb" untuk mengambil data, pastikan sudah mendaftarkan akun twitter di developer.twitter.com untukk mendapatkan token akses untuk crawling data
 3. crawling data sesuai program "1. Crawling Tweet.ipynb"
 4. Buka file text preprocessing.ipynb
 5. Lakukan Text Preprocessing sesuai program "2. Text-Pre-Processing.ipynb"
