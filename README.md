@@ -1,5 +1,5 @@
 # fedy_twitter-
- Sentiment Analysis Toward Coronavirus on Twitter Using Python and Naïve Bayes Classifier)
+ Sentiment Analysis Toward Coronavirus on Twitter Using Python and Naïve Bayes Classifier
 
 How To Use:
 1. Install jupyter notebook terlebih dahulu dan python
